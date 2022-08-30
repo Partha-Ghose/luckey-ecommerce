@@ -58768,7 +58768,7 @@ var EventBus = new Vue();
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\wamp64\www\newGroso\resources\js\dashboard.js */"./resources/js/dashboard.js");
+module.exports = __webpack_require__(/*! C:\wamp64\www\luckey-ecommerce\resources\js\dashboard.js */"./resources/js/dashboard.js");
 
 
 /***/ })

@@ -22136,7 +22136,7 @@ var EventBus = new Vue();
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\wamp64\www\newGroso\resources\js\brand.js */"./resources/js/brand.js");
+module.exports = __webpack_require__(/*! C:\wamp64\www\luckey-ecommerce\resources\js\brand.js */"./resources/js/brand.js");
 
 
 /***/ })

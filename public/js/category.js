@@ -22152,7 +22152,7 @@ var EventBus = new Vue();
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\wamp64\www\newGroso\resources\js\category.js */"./resources/js/category.js");
+module.exports = __webpack_require__(/*! C:\wamp64\www\luckey-ecommerce\resources\js\category.js */"./resources/js/category.js");
 
 
 /***/ })

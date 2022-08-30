@@ -46236,7 +46236,7 @@ var EventBus = new Vue();
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\wamp64\www\newGroso\resources\js\campaign.js */"./resources/js/campaign.js");
+module.exports = __webpack_require__(/*! C:\wamp64\www\luckey-ecommerce\resources\js\campaign.js */"./resources/js/campaign.js");
 
 
 /***/ })
